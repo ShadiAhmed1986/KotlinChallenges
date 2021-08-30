@@ -1,6 +1,6 @@
 package acadamy.learnprogramming.declarations
 
-fun main(args: Array<String>) {
+fun main() {
     //Declare two immutable String variables called hello1 and hello2. Assign "Hello" to both of them
     val hello1 = "Hello"
     val hello2 = "Hello"
