@@ -1,3 +1,5 @@
+import acadamy.learnprogramming.javacode.DummyClass
+
 fun main() {
 
     //PRIMITIVE DATA TYPES
@@ -33,5 +35,14 @@ fun main() {
 
     val myBoolean = true
 
+    val vacationTime = false
+    //taking the method from java class like method DummyClass()
+    val onVacation = DummyClass().isVacationTime(vacationTime)
+    println(onVacation)
+
+    //'Any' class-> like Object class in Java
+    //It has toString(),hashCode(),equals()
+
+    //'Nothing class' -> nothing to return,
 
 }
