@@ -1,4 +1,4 @@
-package acadamy.learnprogramming.declarations
+package acadamy.learnprogramming.lessons
 
 fun main() {
     //Declare two immutable String variables called hello1 and hello2. Assign "Hello" to both of them
